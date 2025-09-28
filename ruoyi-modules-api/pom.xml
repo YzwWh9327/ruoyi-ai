@@ -17,7 +17,6 @@
         <module>ruoyi-chat-api</module>
         <module>ruoyi-knowledge-api</module>
         <module>ruoyi-system-api</module>
-        <module>ruoyi-asset-management-api</module>
     </modules>
 
     <properties>
